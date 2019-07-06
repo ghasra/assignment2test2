@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConvertAll</string>
+    <string name="cm">CM</string>
+    <string name="mile">Mile</string>
+    <string name="km">KM</string>
+    <string name="pound">Pound</string>
+</resources>
